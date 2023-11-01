@@ -19,6 +19,8 @@ This repository contains three bash shell scripts to help Kofi Ezedike, a newcom
 * The user knows their last four card digits and CVC.
 * The user wants to set up a PIN for their card.
 
+![Dela_Doreen_QUESTION_1](https://github.com/DelaDoreen/JOMACS-Bashscripting-Project/assets/142509085/8f5ca144-14ea-4fbc-9882-cea2f82bd892)
+
 
 ### Question_2: Make First CNP Transaction at Udemy.com
 
@@ -30,6 +32,8 @@ This repository contains three bash shell scripts to help Kofi Ezedike, a newcom
 * The user knows their card number, CVC, and postcode.
 * The transaction amount is less than or equal to the user's credit limit.
 
+![Dela_Doreen_QUESTION_2](https://github.com/DelaDoreen/JOMACS-Bashscripting-Project/assets/142509085/affe0c8e-a0f3-4677-8693-625e19de1777)
+
 
 ### Question_3: Automatically Approve Transactions
 
@@ -40,21 +44,23 @@ This repository contains three bash shell scripts to help Kofi Ezedike, a newcom
 * The user wants to automatically approve transactions that are less than or equal to their credit limit.
 * The user knows their credit limit.
 
+![Dela_Doreen_QUESTION_3](https://github.com/DelaDoreen/JOMACS-Bashscripting-Project/assets/142509085/280746ad-bd99-4a37-a420-abe73158fd5b)
+
 
 ## Instructions to run these scripts
 
-* Clone this repository to your local machine:
+#### 1. Clone this repository to your local machine:
 *git clone https://github.com/DelaDoreen/JOMACS-Bashscripting-Project.git*
 
-* Navigate to the repository directory:
+#### 2. Navigate to the repository directory:
 
 * *cd JOMACS-Bashscripting-Project*
 * *cd bashscripts*
 
-* Grant the scripts executable permissions:
+#### 3. Grant the scripts executable permissions:
 *chmod +x *.sh*
 
-* Run the scripts as needed:
+#### 4. Run the scripts as needed(pay attention to the prompts within each script)
 * *./Dela_Doreen_QUESTION_1.sh*
 * *./Dela_Doreen_QUESTION_2.sh*
 * *./Dela_Doreen_QUESTION_3.sh*
