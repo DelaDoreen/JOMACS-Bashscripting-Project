@@ -1,12 +1,12 @@
 # JOMACS-Bashscripting-Project
 
-## #Author : Doreen Dela Agbedoe
-## Created : 24th August, 2023
-## Modified : 19th October, 2023
+### Author : Doreen Dela Agbedoe
+### Created : 24th August, 2023
+### Modified : 19th October, 2023
 
 
 ## Overview : 
-This repository contains three bash shell scripts to help Kofi Ezedike, a newcomer to Canada, activate his new RBC credit card, make his first CNP transaction at Udemy.com, and automatically approve any transaction less than or equal to his credit limit.
+This project consists of three Bash shell scripts that help Kofi Ezedike, a newcomer to Canada, manage his finances. The first script helps Kofi activate his new RBC credit card. The second script helps Kofi make his first CNP transaction at Udemy.com. The third script automatically approves any transaction less than or equal to Kofi's credit limit.
 
 
 ### Question_1: Activate RBC Credit Card
