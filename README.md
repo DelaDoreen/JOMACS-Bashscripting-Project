@@ -6,7 +6,7 @@
 
 
 ## Overview : 
-This project consists of three Bash shell scripts that help Kofi Ezedike, a newcomer to Canada, manage his finances. The first script helps Kofi activate his new RBC credit card. The second script helps Kofi make his first CNP transaction at Udemy.com. The third script automatically approves any transaction less than or equal to Kofi's credit limit.
+This project consists of three Bash shell scripts that help Kofi Ezedike, a newcomer to Canada, activate his ATM card and perform some cashless transactions. The first script helps Kofi activate his new RBC credit card. The second script helps Kofi make his first CNP transaction at Udemy.com. The third script automatically approves any transaction less than or equal to Kofi's credit limit.
 
 
 ### Question_1: Activate RBC Credit Card
